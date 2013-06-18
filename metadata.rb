@@ -1,6 +1,6 @@
 name             '23dex-myface'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Coo-coo company'
+maintainer_email 'danaq@pobox.com'
 license          'All rights reserved'
 description      'Installs/Configures 23dex-myface'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
